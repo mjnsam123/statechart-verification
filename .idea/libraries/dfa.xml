@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="dfa">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/dfa/JFlex-1.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/dfa/java-cup-11a.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
